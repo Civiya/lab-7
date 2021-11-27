@@ -1,3 +1,7 @@
 hi hello
+<<<<<<< HEAD
 kongu
 hi
+=======
+kongu
+>>>>>>> branch1
